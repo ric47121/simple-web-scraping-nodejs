@@ -1,0 +1,10 @@
+https://www.npmjs.com/package/puppeteer
+-----------------------------------------------
+crear carpeta
+npm init --y
+npm i puppeteer --save 
+
+node index.js
+
+-----------------------------------------------
+abre ventana chromium y extrae el dato
